@@ -23,6 +23,21 @@
 @endsection
 
 <style>
+    h1 {
+        text-align: center;
+    }
+
+    .row {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .card {
+        margin: 10px;
+    }
+
     .container {
         display: flex;
         justify-content: center;
